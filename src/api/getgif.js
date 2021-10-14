@@ -19,3 +19,5 @@ export const getGifs = async (gif) => {
   
   return gifs;
 }
+// gif = [{id:, title, url}, {id:, title, url},]
+// ...gif
